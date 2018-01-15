@@ -17,11 +17,4 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.arduino.core.arduinoNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>LiquidCrystal.h</name>
-			<type>1</type>
-			<location>D:/Tools/eclipse/arduinocdt/libraries/LiquidCrystal/LiquidCrystal.h</location>
-		</link>
-	</linkedResources>
 </projectDescription>
